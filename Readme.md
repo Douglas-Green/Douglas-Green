@@ -40,3 +40,5 @@ I code for the love of coding. Learning and networking with other like minded pe
 - 📫 How to reach me: douglas.green.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: JavaScript is like Gravity to the internet's SpaceTime
+
+![snake gif](https://github.com/Douglas-Green/Douglas-Green/blob/output/github-contribution-grid-snake.gif)

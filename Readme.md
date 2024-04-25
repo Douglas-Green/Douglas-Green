@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Douglas Green
 =====================================================================================================================================
 
-MERN Full Stack/ Front-End Developer
+<p style=color: magenta; font-size: 2rem;">MERN Full Stack / Front-End Web Developer</p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="125" width="100"/>
+
 
   <a href="https://github.com/Douglas-green">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" width="150" alt="GitHub badge">

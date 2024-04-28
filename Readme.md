@@ -31,4 +31,4 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Green&theme=onedark" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Douglas-Green/Douglas-Green/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)

@@ -1,5 +1,4 @@
 <!-- @format -->
-
 ## <p style="font-size: 2.4rem; color: cyan;"> Howdy! Douglas Green here, 👋</p>
 
 <p align="right" style="font-size: 1.5rem; color: magenta;">❤️ Currently learning MERN Full Stack and diving into React. Learning is always fun! Bettering yourself is the greatest gift you can give to your loved ones!!</p>
@@ -10,6 +9,8 @@
 <p align="center" style="font-size: 1.5rem; color: magenta;">✨ I study: React, Javascript, Nodejs, Express, HTML/CSS, and pretty much everything else computer/network related. Basically, I'm a NERD!
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBseXM4NDRpc3g5MzRwbmVoZHExYTFvd3p2OHRqYmpzb3F6NGtwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+<br><br>
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ### <p align="center" style="font-size: 1.7rem; color: gold;">My stack:</p>
 
@@ -31,4 +32,4 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Green&theme=onedark" />
 </div>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+

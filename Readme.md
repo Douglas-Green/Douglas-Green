@@ -1,33 +1,60 @@
-<!-- @format -->
-## <p style="font-size: 2.4rem; color: cyan;"> Howdy! Douglas Green here, 👋</p>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Douglas Green</h1>
+<h3 align="center">Self Motivated || Self-Disciplined || Rapid Learner || Adventurer || Lover of Life</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Douglas-Green&label=Profile%20views&color=0e75b6&style=flat" alt="Douglas-Green" /> </p>
 
-<p align="right" style="font-size: 1.5rem; color: magenta;">❤️ Currently learning MERN Full Stack and diving into React. Learning is always fun! Bettering yourself is the greatest gift you can give to your loved ones!!</p>
-<br><br>
-<p align="left" style="font-size: 1.5rem; color: cyan;" >🤔 I'm currently enrolled in TrueCoders Boot Camp. 9 Weeks of coding and the rest of my life to master that code.</p>
-<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Douglas-Green&theme=" alt="Douglas-Green" /></a> </p>
 
-<p align="left" style="font-size: 1.5rem; color: magenta;">✨ I study: React, Javascript, Nodejs, Express, HTML/CSS, and pretty much everything else computer/network related. Basically, I'm a NERD!
+- 🔭 I’m currently working on **FInal Project for Coding Camp**
+- 👯 I’m looking to collaborate on **Any Commercial or personal React projects**
+- 🤝 I’m looking for help with **Increasing My coding abilities in React and Node.js**
+- 🌱 I’m currently learning **MERN Full Stack**
+- 💬 Ask me about **Anything! If I know, I'll Tell you. If I don't, Could you tell me?**
+- 📫 How to reach me **varmevisible@gmail.com https://profile.indeed.com/**
+- 👨‍💻 All of my projects are available at **www.github.com/Douglas-Green**
+- ⚡ Fun fact **Javascript is the 'Gravity' to the Internets 'SPACETIME' -ME 🐱‍🏍**
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBseXM4NDRpc3g5MzRwbmVoZHExYTFvd3p2OHRqYmpzb3F6NGtwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+<div> <a href="https://www.linkedin.com/in/Douglas Green" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Douglas-Green" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:varmevisible@gmail.com https://profile.indeed.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Douglas Green" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Douglas Green" height="30" width="40" /></a></p>
 
-<p align="left" style="font-size: 1.7rem; color: gold;">My stack:</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-<p align="left" style="font-size: 1.2rem; color: white;">- HTML/CSS JAVASCRIPT<br> 
-- NODE EXPRESS MONGODB MySQL<br>
-- REACT VITE WEBPACK</p> 
-<p align="left" style="font-size: 1.9rem; color:magenta; ";>About me:</p>
-<p align="left" style="font-size: 1.5rem; color: cyan;">- 😄 Fun fact: Javascript is the gravity to the Internets SpaceTime!<br><br>
-- 🔭 I’m looking to collaborate on commercial projects and startups<br><br>
-- 📫 How to reach me:<br> [Email](douglas.green.dev@gmail.com)<br><br>
-- 💬 Ask me about<br> [Anything](douglas.green.dev@gmail.com)</p>
-<br>
-<br>
-<br>
-<div>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Douglas-Green&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Douglas-Green&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Douglas-Green&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Green&theme=onedark" />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/varmevisiby"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/varmevisiby" /></a></p><br><br>
+
+<h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Green&show_icons=true&locale=en&theme=dracula" alt="Douglas-Green" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas-Green&theme=dracula" alt="Douglas-Green" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Douglas-Green">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Douglas-Green&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Douglas-Green&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Douglas-Green&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Douglas-Green&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Douglas-Green&theme=2077" height="180em" />
 </div>
-
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)

@@ -3,7 +3,6 @@
 <h3 align="center">Self Motivated || Self-Disciplined || Rapid Learner || Adventurer || Lover of Life</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Douglas-Green&label=Profile%20views&color=0e75b6&style=flat" alt="Douglas-Green" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Douglas-Green&theme=" alt="Douglas-Green" /></a> </p>
 
 - 🔭 I’m currently working on **FInal Project for Coding Camp**
 - 👯 I’m looking to collaborate on **Any Commercial or personal React projects**
